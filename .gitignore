@@ -9,3 +9,12 @@ __pycache__/
 .env
 
 outputs/
+
+.venv/
+
+# Large data folders
+cleaned_csv/
+outputs/
+
+# CSV files
+*.csv
